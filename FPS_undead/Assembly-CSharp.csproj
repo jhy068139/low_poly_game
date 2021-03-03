@@ -61,6 +61,10 @@
     <Compile Include="Assets\script\player_control.cs" />
   </ItemGroup>
   <ItemGroup>
+     <None Include="Assets\TSF\Shaders\TSF.shader" />
+     <None Include="Assets\texture\wood_fence\sh_water.shader" />
+     <None Include="Assets\TSF\Shaders\TSFOutline.shader" />
+     <None Include="Assets\texture\casle\casle_one\cartoon_shader.shader" />
      <None Include="Assets\SpawningPool\Readme.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.1.3f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
